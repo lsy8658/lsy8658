@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=SY%20Github&fontSize=70&customColorList=9,9,9&fontColor=fff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=SY%20Github&fontSize=70&customColorList=9,9,9&fontColor=fff&animation=fadeIn" />
 
  <h3>이성윤</h3>
 <h1> Front-End Developer</h1>
@@ -25,9 +25,16 @@
 <div> 
   <img src="https://img.shields.io/badge/MongoDB-13AA52?style=flat-square&logo=Mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-338633?style=flat-square&logo=Node.js&logoColor=white"/>
- <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"/>
+
    <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=Next.js&logoColor=white"/>
-  
+</div>
+</br>
+
+<h3>⚒ Tools</h3>
+<div>
+ <img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Github-000?style=flat-square&logo=Github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"/>
 </div>
 </br>
 
@@ -37,6 +44,16 @@
     <img src="https://img.shields.io/badge/Tistory-000?style=뱃지모양&logo=Tistory&logoColor=white"/>
   </a>
 </div>
+
+
+
+
+
+
+
+
+
+
 <!-- <img src="https://i.imgur.com/dXxLDXd.png" width="30px" height="30px"> -->
 
 <!-- ![react](https://img.shields.io/badge/react-blue?logo=react)
