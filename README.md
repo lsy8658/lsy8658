@@ -41,7 +41,7 @@
 <h3>📙 My Blog</h3>
 <div>
   <a href="https://lsy-project.tistory.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Tistory-000?style=뱃지모양&logo=Tistory&logoColor=white"/>
+   Tstory
   </a>
 </div>
 
