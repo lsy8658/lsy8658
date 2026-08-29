@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=SY%20Github&fontSize=70&customColorList=9,9,9&fontColor=fff&animation=fadeIn" />
 
- <h3>이성윤</h3>
-<h1> Front-End Developer</h1>
+<h3>이성윤</h3>
+<h1>Developer</h1>
 
 </br>
 <h3>📂 공부중 && 작업 Skills</h3>
